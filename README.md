@@ -20,3 +20,6 @@ N/A
 ## License
 
 Please refer to the license in the repo.
+
+# Build settings
+theme: minima
